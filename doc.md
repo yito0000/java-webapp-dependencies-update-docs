@@ -99,9 +99,11 @@ JavaのWebアプリのライブラリ/フレームワークを整理/バージ�
   - OWASP：https://www.owasp.org/index.php/Japan
   - https://plugins.gradle.org/plugin/org.owasp.dependencycheck
   - 脆弱性の診断をしてくれるプラグイン
-    - NVDなどに報告がないかのチェック
+    - NVDなどに報告があるかチェック
       - National Vulnerability Database
       - 脆弱性情報データベース
+  - [出力結果](./dependency-check-report.html)
+    - 解決済みのも出力される
 - 明らかな脆弱性があるライブラリは使いたくない
 
 ---
